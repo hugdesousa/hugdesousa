@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=hugdesousa)](https://github.com/hugdesousa/github-profile-trophy)
-![trophies-filter](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=-UNKNOWN)
+![trophies-filter](https://github-profile-trophy.vercel.app/?username=hugdesousa&rank=-UNKNOWN)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=rb1c5x1dhrhxvatbn5000xjwm&count=3)
 
