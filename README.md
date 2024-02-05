@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![MasterHead](![banner](https://github.com/hugdesousa/hugdesousa/assets/91154639/1f547b56-7945-4669-8b29-b7162550ef64))]([your GitHub link](https://github.com/hugdesousa))
+[![MasterHead](![banner](banner.png))]([your GitHub link](https://github.com/hugdesousa))
 ![Trophies-filter](https://github-profile-trophy.vercel.app/?username=hugdesousa&rank=-UNKNOWN&row=1&column=3&theme=gruvbox&margin-w=15)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=rb1c5x1dhrhxvatbn5000xjwm&count=3)
 
